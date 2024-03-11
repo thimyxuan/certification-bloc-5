@@ -13,6 +13,6 @@ Ce dossier contient l'ensemble du projet Getaround pour la validation du bloc 5 
 Concepteur - Développeur en Science des Données   
 Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
 
-Theme evaluation :
+Thème de l'evaluation :
 
 Web dashboard, construction et mise en production d'une application web d'intelligence artificielle.
