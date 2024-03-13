@@ -15,9 +15,7 @@
 
 Ceci est l'API de prédiction des prix de location du projet Getaround.
 
-Ele est déployée à l'adresse suivante : <a href="https://fastapi-getaround-7a9ad465e3fa.herokuapp.com/" target="_blank">https://fastapi-getaround-7a9ad465e3fa.herokuapp.com/</a>
-
-Vous pouvez retrouver l'ensemble du projet Getaround dans <a href="https://github.com/thimyxuan/car-rental-delay-analysis" target="_blank">ce repository</a>.
+Elle est déployée à l'adresse suivante : [`https://fastapi-getaround-7a9ad465e3fa.herokuapp.com/`](https://fastapi-getaround-7a9ad465e3fa.herokuapp.com/)
 
 ## Déploiement en local
 

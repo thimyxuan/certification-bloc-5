@@ -45,7 +45,7 @@ PARTIE 2 - Machine learning
 - Notebook partie_2.ipynb
 
 PARTIE 3 - Tableau de bord Streamlit
-- Voir le repository [streamlit-dashboard-car-rental-delay](https://github.com/thimyxuan/streamlit-dashboard-car-rental-delay)
+- Voir le dossier [getaround_streamlit](https://github.com/thimyxuan/certification-bloc-5/tree/master/getaround_streamlit)
 
 PARTIE 4 - Création de l'API FastAPI
-- Voir le repository [api-car-rental-price-predictor](https://github.com/thimyxuan/api-car-rental-price-predictor)
+- Voir le dossier [getaround_fastapi](https://github.com/thimyxuan/certification-bloc-5/tree/master/getaround_fastapi)
